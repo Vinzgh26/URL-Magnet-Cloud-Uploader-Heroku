@@ -9,7 +9,7 @@ upload files remotely from url
 
 Heroku oneclick / Rapid deploy method available
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://developeranaz.github.io/URL-Magnet-Cloud-Uploader-Heroku/random.html)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Vinzgh26/URL-Magnet-Cloud-Uploader-Heroku)
 
 Star my Repository & Support me
 
